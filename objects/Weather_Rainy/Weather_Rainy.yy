@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"rain",
-    "path":"sprites/rain/rain.yy",
+    "name":"rainy_sprite",
+    "path":"sprites/rainy_sprite/rainy_sprite.yy",
   },
   "spriteMaskId":null,
   "visible":true,

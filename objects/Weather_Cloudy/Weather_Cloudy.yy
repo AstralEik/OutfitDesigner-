@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"cloud",
-    "path":"sprites/cloud/cloud.yy",
+    "name":"cloudy_sprite",
+    "path":"sprites/cloudy_sprite/cloudy_sprite.yy",
   },
   "spriteMaskId":null,
   "visible":true,
