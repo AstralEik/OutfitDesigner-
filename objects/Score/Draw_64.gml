@@ -1,3 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
-room_goto(1)
+
+draw_text(10, 10, "Score: " + string(score));

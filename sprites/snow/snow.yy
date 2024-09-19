@@ -24,6 +24,10 @@
   "name":"snow",
   "nineSlice":null,
   "origin":0,
+  "parent":{
+    "name":"OutfitDesigner",
+    "path":"OutfitDesigner.yyp",
+  },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
   "resourceVersion":"2.0",
