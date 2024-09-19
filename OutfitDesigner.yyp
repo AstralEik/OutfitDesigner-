@@ -34,16 +34,22 @@
   },
   "name":"OutfitDesigner",
   "resources":[
+    {"id":{"name":"MainMenuStartButton","path":"objects/MainMenuStartButton/MainMenuStartButton.yy",},},
     {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
+    {"id":{"name":"PlayMenuEndButton","path":"objects/PlayMenuEndButton/PlayMenuEndButton.yy",},},
     {"id":{"name":"player","path":"objects/player/player.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"id":{"name":"denmark_monthly_weather_averages_4134974_V3_08cf1bdd528c4a8aa187548c8a45cd39","path":"sprites/denmark_monthly_weather_averages_4134974_V3_08cf1bdd528c4a8aa187548c8a45cd39/denmark_monthly_weather_averages_4134974_V3_08cf1bdd528c4a8aa187548c8a45cd39.yy",},},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
+    {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
     {"id":{"name":"temp_player","path":"sprites/temp_player/temp_player.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
