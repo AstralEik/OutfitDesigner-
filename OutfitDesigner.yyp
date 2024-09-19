@@ -35,8 +35,10 @@
   "name":"OutfitDesigner",
   "resources":[
     {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
+    {"id":{"name":"player","path":"objects/player/player.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
+    {"id":{"name":"temp_player","path":"sprites/temp_player/temp_player.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
