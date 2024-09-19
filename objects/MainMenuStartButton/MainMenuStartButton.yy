@@ -8,8 +8,8 @@
   "name":"MainMenuStartButton",
   "overriddenProperties":[],
   "parent":{
-    "name":"OutfitDesigner",
-    "path":"OutfitDesigner.yyp",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,

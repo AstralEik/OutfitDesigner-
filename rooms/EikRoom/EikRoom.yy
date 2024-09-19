@@ -23,8 +23,8 @@
   ],
   "name":"EikRoom",
   "parent":{
-    "name":"OutfitDesigner",
-    "path":"OutfitDesigner.yyp",
+    "name":"Rooms",
+    "path":"folders/Rooms.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

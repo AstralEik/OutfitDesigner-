@@ -12,8 +12,8 @@
   "duration":3.192,
   "name":"elemental_magic_spell_impact_outgoing_228342",
   "parent":{
-    "name":"OutfitDesigner",
-    "path":"OutfitDesigner.yyp",
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

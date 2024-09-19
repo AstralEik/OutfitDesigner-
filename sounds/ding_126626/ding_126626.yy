@@ -12,8 +12,8 @@
   "duration":1.128,
   "name":"ding_126626",
   "parent":{
-    "name":"OutfitDesigner",
-    "path":"OutfitDesigner.yyp",
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
   },
   "preload":false,
   "resourceType":"GMSound",
