@@ -35,6 +35,7 @@
   "name":"OutfitDesigner",
   "resources":[
     {"id":{"name":"ArbiCloth","path":"objects/ArbiCloth/ArbiCloth.yy",},},
+    {"id":{"name":"tFont","path":"fonts/tFont/tFont.yy",},},
     {"id":{"name":"MainMenuStartButton","path":"objects/MainMenuStartButton/MainMenuStartButton.yy",},},
     {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
     {"id":{"name":"player","path":"objects/player/player.yy",},},
@@ -50,6 +51,10 @@
     {"id":{"name":"ding_126626","path":"sounds/ding_126626/ding_126626.yy",},},
     {"id":{"name":"elemental_magic_spell_impact_outgoing_228342","path":"sounds/elemental_magic_spell_impact_outgoing_228342/elemental_magic_spell_impact_outgoing_228342.yy",},},
     {"id":{"name":"cloud","path":"sprites/cloud/cloud.yy",},},
+    {"id":{"name":"Timer","path":"objects/Timer/Timer.yy",},},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"id":{"name":"weny_playground","path":"rooms/weny_playground/weny_playground.yy",},},
     {"id":{"name":"denmark_monthly_weather_averages_4134974_V3_08cf1bdd528c4a8aa187548c8a45cd39","path":"sprites/denmark_monthly_weather_averages_4134974_V3_08cf1bdd528c4a8aa187548c8a45cd39/denmark_monthly_weather_averages_4134974_V3_08cf1bdd528c4a8aa187548c8a45cd39.yy",},},
     {"id":{"name":"rain","path":"sprites/rain/rain.yy",},},
     {"id":{"name":"snow","path":"sprites/snow/snow.yy",},},
@@ -66,6 +71,7 @@
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"roomId":{"name":"EikRoom","path":"rooms/EikRoom/EikRoom.yy",},},
+    {"roomId":{"name":"weny_playground","path":"rooms/weny_playground/weny_playground.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
