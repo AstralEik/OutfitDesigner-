@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sun",
-    "path":"sprites/sun/sun.yy",
+    "name":"sunny_sprite",
+    "path":"sprites/sunny_sprite/sunny_sprite.yy",
   },
   "spriteMaskId":null,
   "visible":true,

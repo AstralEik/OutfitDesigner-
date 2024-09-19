@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"snow",
-    "path":"sprites/snow/snow.yy",
+    "name":"snowy_sprite",
+    "path":"sprites/snowy_sprite/snowy_sprite.yy",
   },
   "spriteMaskId":null,
   "visible":true,
